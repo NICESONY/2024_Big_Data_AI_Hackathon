@@ -1,4 +1,2 @@
-# Global_Internships
-Global_Internships
-
+# 2024_Big_Data_AI_Hackathon
 
